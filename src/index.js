@@ -25,7 +25,7 @@ function getLikes(offset){
     // Filter through the JSON object to get the title of the like and the url
     bodyObj.likes.values.forEach(function(likeObj){
       likesArr.push([likeObj.title, likeObj.url]);
-    });6
+    });
     console.log(likesArr.length);
     // StumbleUpon will only return 10-30 likes at a time so repeat until all likes are recieved (because of the infinite scroll when you look at all your likes on StumbleUpons)
     if(likesArr.length < bodyObj.likes._total){

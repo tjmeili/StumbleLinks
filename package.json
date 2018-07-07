@@ -1,0 +1,16 @@
+{
+  "name": "stumbleupon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "traw43",
+  "license": "ISC",
+  "description": "Saves StumbleUpon likes to text file."
+}

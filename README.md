@@ -1,5 +1,5 @@
 # StumbleLinks
-Saves StumbleUpon likes
+Saves StumbleUpon likes. I'm still working on the lists.
 
 ## Things You'll Need
 * Your Username

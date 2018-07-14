@@ -1,9 +1,9 @@
 {
-  "name": "stumbleupon",
+  "name": "stumblelinks",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "fs": "0.0.1-security",
+    "fs": "^0.0.1-security",
     "request": "^2.87.0"
   },
   "devDependencies": {},
@@ -12,5 +12,5 @@
   },
   "author": "traw43",
   "license": "ISC",
-  "description": "Saves StumbleUpon likes to text file."
+  "description": "Saves StumbleUpon likes and lists to text files."
 }
